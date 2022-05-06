@@ -1,0 +1,37 @@
+from cgitb import text
+from email.mime import image
+from turtle import left
+
+import h2 as h2
+import pylab as p
+import text_unidecode
+from PIL.ImageQt import rgb
+from easy_thumbnails.processors import background
+from networkx import center
+from nltk import align
+
+import h1 as h1
+from pyreadline.release import url
+from sympy.physics.mechanics import body
+
+h1{
+  text_unidecode: center,
+ background:  rgb(71, 99, 255, 0.2),
+  #border-style:outset;
+}
+
+h2[
+  text-align: left,
+  background: rgb(71, 99, 255, 0.2),
+  #border-style: outset;
+]
+
+body[
+   background: url("prediction.PNG"),
+   background: 2,
+]
+
+p[
+  text-align: left,
+
+]
